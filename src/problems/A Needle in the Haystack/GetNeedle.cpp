@@ -1,7 +1,7 @@
 #include <vector>
 #include <string>
 #include <iostream>
-#include "../algorithms/KMP.cpp"
+#include "../../algorithms/KMP.cpp"
 
 using namespace std;
 
